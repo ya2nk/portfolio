@@ -20,7 +20,7 @@ Lalu ketik command dibawah ini
 - php artisan db:seed --class=UserSeeder (mengisi data table users)
 
 Login
-Username : admin
+Username : admin <br/>
 Password : admin123
 
 Author
