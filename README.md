@@ -4,7 +4,7 @@ Aplikasi website portfolio dengan konten dinamis.
 </b></p>
 
 Instalasi
-- download zip <a href="https://github.com/yh2bae/portfolio.git">disini</a> 
+- download zip <a href="https://codeload.github.com/yh2bae/portfolio/zip/refs/heads/master">disini</a> 
 - atau clone : git clone https://github.com/yh2bae/portfolio.git
 
 Setup
